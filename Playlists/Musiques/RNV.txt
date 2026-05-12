@@ -1,0 +1,157 @@
+# This is an example playlist
+# You can put this in your Playlists folder as example_playlist.txt
+
+# The following line currently makes the playlist shuffle
+# Remove this line entirely if you don't want shuffling
+# shuffle
+
+# direct link
+# This is an example playlist
+# You can put this in your Playlists folder as example_playlist.txt
+
+# The following line currently makes the playlist shuffle
+# Remove this line entirely if you don't want shuffling
+# shuffle
+
+# direct link
+D:\Radio New vegas\Playlists\Hank Williams - Hey Good Lookin'.mp3
+D:\Radio New vegas\Playlists\Ray Price - Crazy Arms.mp3
+D:\Radio New vegas\Playlists\Gene Autry Back In The Saddle Again.mp3
+D:\Radio New vegas\Playlists\Goodsprings idole.mp3
+D:\Radio New vegas\Playlists\Frank Sinatra - Come Fly With Me.mp3
+D:\Radio New vegas\Playlists\Marty Robbins - El Paso.mp3
+D:\Radio New vegas\Playlists\Nipton.mp3
+D:\Radio New vegas\Playlists\Dean Martin, Nelson Riddle - Ain't That A Kick In The Head.mp3
+D:\Radio New vegas\Playlists\Johnny Cash - Big River.mp3
+D:\Radio New vegas\Playlists\Eddy Arnold- Cattle Call.mp3
+D:\Radio New vegas\Playlists\Novac.mp3
+D:\Radio New vegas\Playlists\Fallout New Vegas Radio - Let's Ride Into The Sunset Together.mp3
+D:\Radio New vegas\Playlists\Bob Wills & His Texas Playboys - San Antonio Rose (1973).mp3
+D:\Radio New vegas\Playlists\Crimson caravan.mp3
+D:\Radio New vegas\Playlists\Nat King Cole - Love Me As Though There Were No Tomorrow (Remastered).mp3
+D:\Radio New vegas\Playlists\Faron Young - Hello Walls.mp3
+D:\Radio New vegas\Playlists\SIXTEEN TONS - Tennesse Ernie Ford w_ Lyrics.mp3
+D:\Radio New vegas\Playlists\New vegas Mitchell.mp3
+D:\Radio New vegas\Playlists\George Jones - The Race Is On.mp3
+D:\Radio New vegas\Playlists\Bing Crosby - Something's Gotta Give.mp3
+D:\Radio New vegas\Playlists\Pahrump.mp3
+D:\Radio New vegas\Playlists\Marty Robbins - Big Iron.mp3
+D:\Radio New vegas\Playlists\Perry Como - Magic Moments (Audio).mp3
+D:\Radio New vegas\Playlists\Buck Owens Act Naturally.mp3
+D:\Radio New vegas\Playlists\Reunion au sommet.mp3
+D:\Radio New vegas\Playlists\Bob Wills - Cherokee Maiden.mp3
+D:\Radio New vegas\Playlists\Hank Williams - Your Cheatin` Heart w added bass track, fantastic sound!.mp3
+D:\Radio New vegas\Playlists\Raiders Légion.mp3
+D:\Radio New vegas\Playlists\Chet Atkins - Mr. Sandman (TV 1954).mp3
+D:\Radio New vegas\Playlists\Sons Of The Pioneers - Tumbling Tumbleweeds.mp3
+D:\Radio New vegas\Playlists\The Statler Brothers_ Flowers on the Wall.mp3
+D:\Radio New vegas\Playlists\Pub mojave express.mp3
+D:\Radio New vegas\Playlists\Fallout New Vegas Soundtrack - Jingle Jangle Jingle.mp3
+D:\Radio New vegas\Playlists\Don't Fence Me In - Bing Crosby & The Andrews Sisters.mp3
+D:\Radio New vegas\Playlists\Passeport Vegas.mp3
+D:\Radio New vegas\Playlists\Ray Price - Night Life.mp3
+D:\Radio New vegas\Playlists\Marty Robbins - Singing The Blues.mp3
+D:\Radio New vegas\Playlists\Helen Forrest - Mad About The Boy.mp3
+D:\Radio New vegas\Playlists\Arizona.mp3
+D:\Radio New vegas\Playlists\Bobby Bare - 500 Miles Away From Home.mp3
+D:\Radio New vegas\Playlists\HOW HIGH THE MOON   LES PAUL   MARY FORD   1951.mp3
+D:\Radio New vegas\Playlists\Black Mountain.mp3
+D:\Radio New vegas\Playlists\Kitty Wells- It Wasn't God Who Made Honky Tonk Angels (Lyrics in description).mp3
+D:\Radio New vegas\Playlists\jim ed brown- pop a top.mp3
+D:\Radio New vegas\Playlists\Leroy Van Dyke - Walk On By.mp3
+D:\Radio New vegas\Playlists\Camp golf.mp3
+D:\Radio New vegas\Playlists\Fallout New Vegas Radio - Stars Of The Midnight Ranger.mp3
+D:\Radio New vegas\Playlists\Faron Young Goin' Steady (1970).mp3
+D:\Radio New vegas\Playlists\Boone.mp3
+D:\Radio New vegas\Playlists\Adelaide Hall - As Time Goes By.mp3
+D:\Radio New vegas\Playlists\HANK THOMPSON - A Six Pack to Go (1960).mp3
+D:\Radio New vegas\Playlists\Santo & Johnny - Sleep walk [Original instrumental].mp3
+D:\Radio New vegas\Playlists\Appalache.mp3
+D:\Radio New vegas\Playlists\Marty Robbins - A Hundred And Sixty Acres.mp3
+D:\Radio New vegas\Playlists\Louvin Brothers - Great Atomic Power.mp3
+D:\Radio New vegas\Playlists\Site de test Repconn.mp3
+D:\Radio New vegas\Playlists\George Jones - She Thinks I Still Care.wmv.mp3
+D:\Radio New vegas\Playlists\Ernest Tubb - Waltz Across Texas.mp3
+D:\Radio New vegas\Playlists\Gee by the Crows 1954.mp3
+D:\Radio New vegas\Playlists\Expansion strip.mp3
+D:\Radio New vegas\Playlists\Fallout New Vegas Radio - Why Don't You Do Right.mp3
+D:\Radio New vegas\Playlists\Don Gibson - Sea of Heartbreak.mp3
+D:\Radio New vegas\Playlists\Securitron.mp3
+D:\Radio New vegas\Playlists\Marty Robbins - Doggone Cowboy.mp3
+D:\Radio New vegas\Playlists\Teresa Brewer – Fair Weather Sweetheart.mp3
+D:\Radio New vegas\Playlists\Buck Owens  Love's Gonna Live Here.mp3
+D:\Radio New vegas\Playlists\Feu d'artifice.mp3
+D:\Radio New vegas\Playlists\Home on the Range --The Sons of the Pioneers.mp3
+D:\Radio New vegas\Playlists\Ned Miller - From A Jack To A King.mp3
+D:\Radio New vegas\Playlists\Television New vegas.mp3
+D:\Radio New vegas\Playlists\Hank Thompson & His Brazos Valley Boys - Oklahoma Hills.mp3
+D:\Radio New vegas\Playlists\Radio New Vegas - Blue Moon (Frank Sinatra).mp3
+D:\Radio New vegas\Playlists\Stonewall Jackson_Washed My Hands In Muddy Water.mp3
+D:\Radio New vegas\Playlists\New vegas contrebande.mp3
+D:\Radio New vegas\Playlists\If You Aint Lovin (You Aint Livin).mp3
+D:\Radio New vegas\Playlists\THE FOUR ACES - Love Is a Many Splendored Thing ~.mp3
+D:\Radio New vegas\Playlists\Fusion westside.mp3
+D:\Radio New vegas\Playlists\Faded Love - Bob Wills.mp3
+D:\Radio New vegas\Playlists\11. Chain Gang by Sam Cooke Fallout TV Show - Season 2 Soundtrack.mp3
+D:\Radio New vegas\Playlists\Wynn Stewart-It's Such A Pretty World Today.mp3
+D:\Radio New vegas\Playlists\Brouillard de guerre.mp3
+D:\Radio New vegas\Playlists\Honky Tonkin - Hank Williams & Drifting Cowboys.mp3
+D:\Radio New vegas\Playlists\My Baby's Gone - The Louvin Brothers.mp3
+D:\Radio New vegas\Playlists\Avannt poste frontiere.mp3
+D:\Radio New vegas\Playlists\10. Lets Twist Again by Chubby Checker Fallout TV Show - Season 2 Soundtrack.mp3
+D:\Radio New vegas\Playlists\Early Lefty Frizzell - If You've Got The Money I've Got The Time (1950)._.mp3
+D:\Radio New vegas\Playlists\PEGGY LEE - Johnny Guitar.mp3
+D:\Radio New vegas\Playlists\Message de Raider.mp3
+D:\Radio New vegas\Playlists\Bob Wills - South Of The Border (Down Mexico Way).mp3
+D:\Radio New vegas\Playlists\Please Help Me I'm Fallin' - Hank Locklin.mp3
+D:\Radio New vegas\Playlists\Pip boy.mp3
+D:\Radio New vegas\Playlists\8. All Over Again by Johnny Cash Fallout TV Show Soundtrack.mp3
+D:\Radio New vegas\Playlists\Tony Marcus, Tony Marcus - Lone Star.mp3
+D:\Radio New vegas\Playlists\Goodnight Sweetheart Goodnight.mp3
+D:\Radio New vegas\Playlists\Sarsaparilla.mp3
+D:\Radio New vegas\Playlists\Red Steagall - Miles and Miles of Texas.mp3
+D:\Radio New vegas\Playlists\I Can't Stop Loving You.mp3
+D:\Radio New vegas\Playlists\Camp refugié.mp3
+D:\Radio New vegas\Playlists\8. Secrets by The Dale Sisters Fallout TV Show - Season 2 Soundtrack.mp3
+D:\Radio New vegas\Playlists\Lloy Price - Stagger Lee.mp3
+D:\Radio New vegas\Playlists\Webb Pierce - There Stands The Glass.mp3
+D:\Radio New vegas\Playlists\Kings.mp3
+D:\Radio New vegas\Playlists\Fallout New Vegas Soundtrack - Heartaches By The Number - Guy Mitchell.mp3
+D:\Radio New vegas\Playlists\The Four Preps - Charmaine (1963).mp3
+D:\Radio New vegas\Playlists\Chef hanlon.mp3
+D:\Radio New vegas\Playlists\21. Just Fine by Michael Brown & Company Fallout TV Show Soundtrack.mp3
+D:\Radio New vegas\Playlists\Eddy Arnold - Make the World Go Away.mp3
+D:\Radio New vegas\Playlists\The Maddox Brothers And Rose - New Step It Up And Go.mp3
+D:\Radio New vegas\Playlists\Raul petro chico.mp3
+D:\Radio New vegas\Playlists\OH LONESOME ME - Don Gibson  1958.wmv.mp3
+D:\Radio New vegas\Playlists\Dont Let The Stars Get In Your Eyes.mp3
+D:\Radio New vegas\Playlists\House.mp3
+D:\Radio New vegas\Playlists\23. Always by Douglas Gamley Fallout TV Show - Season 2 Soundtrack.mp3
+D:\Radio New vegas\Playlists\Bob Wills, Leon Rausch, Jim Belken, Johnnie Manson - If No News Is Good News.mp3
+D:\Radio New vegas\Playlists\Its All in the Game by Tommy Edwards Fallout Season 2 Official Trailer.mp3
+D:\Radio New vegas\Playlists\Ladyfingers.mp3
+D:\Radio New vegas\Playlists\THE FOUR ACES - Heart And Soul ~.wmv.mp3
+D:\Radio New vegas\Playlists\Arthur Guitar Boogie Smith and his Crackerjacks - Mr. Stalin, Youre Eating Too High on the Hog.mp3
+D:\Radio New vegas\Playlists\Red rocket.mp3
+D:\Radio New vegas\Playlists\31. Bedelia by Bill Stutz and His Bearcats Fallout TV Show - Season 2 Soundtrack.mp3
+D:\Radio New vegas\Playlists\Johnny Bond - Stars Of The Midnight Range.mp3
+D:\Radio New vegas\Playlists\1956 HITS ARCHIVE Hot Dog Buddy Buddy - Bill Haley & his Comets.mp3
+D:\Radio New vegas\Playlists\Utah.mp3
+D:\Radio New vegas\Playlists\Youre Everything.mp3
+D:\Radio New vegas\Playlists\Its a Good Day.mp3
+D:\Radio New vegas\Playlists\Hsu.mp3
+D:\Radio New vegas\Playlists\This Train.mp3
+D:\Radio New vegas\Playlists\BIG BAD JOHN - Jimmy Dean  (1961).mp3
+D:\Radio New vegas\Playlists\cHRYSLUS.mp3
+D:\Radio New vegas\Playlists\Buck Owens - I've Got a Tiger by the Tail.mp3
+D:\Radio New vegas\Playlists\Marty Robbins - Big Iron.mp3
+D:\Radio New vegas\Playlists\Confrerie.mp3
+D:\Radio New vegas\Playlists\Fallout New Vegas Radio - Let's Ride Into The Sunset Together.mp3
+D:\Radio New vegas\Playlists\Frank Sinatra - Come Fly With Me.mp3
+D:\Radio New vegas\Playlists\Faker news.mp3
+D:\Radio New vegas\Playlists\Johnny Cash - Big River.mp3
+D:\Radio New vegas\Playlists\Dean Martin, Nelson Riddle - Ain't That A Kick In The Head.mp3
+D:\Radio New vegas\Playlists\95.mp3
+D:\Radio New vegas\Playlists\Ray Price - Crazy Arms.mp3
+D:\Radio New vegas\Playlists\Hank Williams - Hey Good Lookin'.mp3
+D:\Radio New vegas\Playlists\Shady sands.mp3
