@@ -1,0 +1,1 @@
+worker: java -Dnogui=true -jar JMusicBot-0.4.3-fix1.0.jar
