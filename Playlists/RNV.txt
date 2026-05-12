@@ -113,7 +113,7 @@
 /app/Playlists/Musiques/23. Always by Douglas Gamley Fallout TV Show - Season 2 Soundtrack.mp3
 /app/Playlists/Musiques/Bob Wills, Leon Rausch, Jim Belken, Johnnie Manson - If No News Is Good News.mp3
 /app/Playlists/Musiques/Its All in the Game by Tommy Edwards Fallout Season 2 Official Trailer.mp3
-/app/Playlists/Bulletins/Ladyfingers.mp3
+/app/Playlists/Musiques/Ladyfingers.mp3
 /app/Playlists/Musiques/THE FOUR ACES - Heart And Soul ~.wmv.mp3
 /app/Playlists/Musiques/Arthur Guitar Boogie Smith and his Crackerjacks - Mr. Stalin, Youre Eating Too High on the Hog.mp3
 /app/Playlists/Bulletins/Red rocket.mp3
